@@ -6,3 +6,7 @@ Animation with sounds on pressing keys A-Z
 Right click circles.html and open in browser
 
 Press any keys between A-Z to hear the sound
+
+
+# Technologies Used
+HTML,CSS,JS
