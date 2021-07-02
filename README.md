@@ -9,4 +9,6 @@ Press any keys between A-Z to hear the sound
 
 
 # Technologies Used
-HTML,CSS,JS
+- HTML
+- CSS
+- Javascript
